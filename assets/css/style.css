@@ -1,0 +1,15 @@
+ /* Simple styling for validation error messages */
+ #userTable_wrapper {
+   width: 100%;
+   margin-top: 10px;
+}
+ #form-response .error { color: red; font-size: 14px; display: block; margin-top: 5px; }
+ .success-msg { color: green; font-weight: bold; }
+
+ form .help-block{
+    color: #e3324c;
+     font-size: 1rem !important;
+     font-style: italic;
+     padding: .4em .5em .3em;
+}
+   
